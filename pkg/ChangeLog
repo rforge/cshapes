@@ -1,5 +1,9 @@
+2010-01-18 (0.2-1)
+* Fixed wrong ISO codes of Bahrain.
+* Added 'date' parameter to cshp() function. 
+
 2010-01-05 (0.1-4)
-* Excluded example.
+* Excluded computation of example.
 
 2009-12-26 (0.1-3)
 * Fixed minor issue to pass R CMD check.
