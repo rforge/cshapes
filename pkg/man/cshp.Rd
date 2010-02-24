@@ -10,6 +10,7 @@
 \arguments{
   \item{date}{The date for which the cshapes polygons should be extracted. 
   This argument must be of type Date and must be in the range 1/1/1946 - 30/6/2008. If omitted, the complete dataset is returned.}
+  \item{useGW}{Boolean argument specifying the system membership coding. TRUE (Default): Gleditsch and Ward (1999). FALSE: Correlates of War.}
 }
 \value{
   A \code{SpatialPolygonsDataFrame}, containing the complete CShapes dataset, or the CShapes snapshot for the specified date.
