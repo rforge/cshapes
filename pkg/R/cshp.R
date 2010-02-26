@@ -1,4 +1,4 @@
-cshp <- function(date=NA, useGW=T) {
+cshp <- function(date=NA, useGW=TRUE) {
 		
 	# check input
   	if (!is.na(date) && !inherits(date, "Date")) {
