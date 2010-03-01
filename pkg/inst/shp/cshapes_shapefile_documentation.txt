@@ -68,8 +68,6 @@ Online, http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm.
 
 Citation
 --------
-When using CShapes, please cite 
-
 Weidmann, Nils B., Doreen Kuse, and Kristian Skrede Gleditsch. 
 "The Geography of the International System: The CShapes Dataset." 
 International Interactions 36, no. 1 (2010).
