@@ -85,4 +85,4 @@ Acknowledgements
 ----------------
 We gratefully acknowledge help and comments from the following people:
 Håvard Hegre, Luc Girardin, Håvard Strand, Jan Ketil Rød, Andreas Forø Tollefsen, 
-Kaspar Kundert (ESRI Switzerland), Chad Clay, Lars-Erik Cederman. 
+Kaspar Kundert (ESRI Switzerland), Evan McCulla, Chad Clay, Lars-Erik Cederman. 
