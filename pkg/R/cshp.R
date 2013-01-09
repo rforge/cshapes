@@ -5,7 +5,7 @@ cshp <- function(date=NA, useGW=TRUE) {
     	stop("date is not of type Date")
   	}
   
-  	if (!is.na(date) && (date < as.Date("1946-1-1") | date > as.Date("2008-6-30"))) {
+  	if (!is.na(date) && (date < as.Date("1946-1-1") | date > as.Date("2012-6-30"))) {
     	stop("Specified date is out of range")
   	}
 	

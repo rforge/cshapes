@@ -1,9 +1,13 @@
-2011-X-X (0.3-2)
-* Assigned the Ilemi Triangle to Kenya (Thanks to Hein
-  Goemans)
-* Truncated polygon coordinates that exceeded 180 degrees
-  longitude. (Thanks to Andreas Tollefsen)
-* Fixed switched ISO two- and three-letter codes for Kosovo.
+2012-01-07 (0.4-1)
+* Updated GIS data to 2012: Added South Sudan, changed
+  boundaries of Sudan. Note: When introducing the new ISOCODE for 
+  South Sudan (728), the ISO also changed the ISOCODE for
+  Sudan, from 736 to 729. We use this new code as of July 9, 2011.
+
+2012-07-26 (0.3-2)
+* Changed package maintainer in accordance with CRAN
+  requirements.
+* Fixed inverted ISO two- and three-letter codes for Kosovo.
 
 2011-06-26 (0.3-1)
 * Added a distlist function that returns distances
