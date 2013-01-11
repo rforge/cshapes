@@ -27,9 +27,9 @@
 }
 \examples{
 # Compute a matrix of minimum distances 
-# for the international system on 1/1/2008
+# for the international system on 1/1/1946
 # using the Correlates of War list and the default accuracy
-wmat <- distmatrix(as.Date("2008-1-1"), type="capdist", useGW=FALSE)
+wmat <- distmatrix(as.Date("1946-1-1"), type="capdist", useGW=FALSE)
 
 # For model estimation, our matrix should contain 
 # the inverted distances

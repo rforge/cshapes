@@ -34,9 +34,9 @@
 }
 \examples{
 # Compute a list of minimum distances 
-# for the international system on 1/1/2008
+# for the international system on 1/1/1946
 # using the Correlates of War list and the default accuracy
-dl <- distlist(as.Date("2008-1-1"), type="capdist", useGW=FALSE)
+dl <- distlist(as.Date("1946-1-1"), type="capdist", useGW=FALSE)
 
 # we eliminate duplicate dyads
 dl <- subset(dl, ccode1 < ccode2)
