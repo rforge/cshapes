@@ -53,7 +53,7 @@ Description of the variables in the dataset
 * ISO1AL3: ISO 3166-1 Alpha3 three-character country codes
 
 
-Missing Values in COW/GW codes and dates
+Missing values in COW/GW codes and dates
 ----------------------------------------
 Some polygons have missing values in their COW or GW codes and dates. This is due to the fact
 that the sequences of border changes are coded differently across the two datasets. For example, 
