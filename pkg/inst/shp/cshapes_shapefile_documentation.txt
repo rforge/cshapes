@@ -88,15 +88,17 @@ International Interactions 36, no. 1 (2010).
 
 License
 -------
-The CShapes dataset was created using the country layer from the ESRI "Data and Maps" 
+CShapes is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 
+International License. See http://creativecommons.org/licenses/by-nc-sa/4.0/.
+It was created using the country layer from the ESRI "Data and Maps" 
 collection (http://www.esri.com/data/data-maps/index.html), version 2006. The original 
 dataset is (C) 2006 Environmental Systems Research Institute, Inc. 
-Modification and redistribution with permission from ESRI Inc.
+Modification and redistribution are done with permission from ESRI Inc.
 
 
 Acknowledgements
 ----------------
 We gratefully acknowledge help and comments from the following people:
 Haavard Hegre, Luc Girardin, Haavard Strand, Jan Ketil Rod, Andreas Foro Tollefsen, 
-Kaspar Kundert (ESRI Switzerland), Evan McCulla, Chad Clay, Lars-Erik Cederman, 
-Sebastian Schutte. 
+Kaspar Kundert (ESRI Switzerland), Evan McCulla, Chad Clay, Lars-Erik Cederman,
+Sebastian Schutte, Mike Ward. 
