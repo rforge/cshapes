@@ -1,11 +1,11 @@
 CSHAPES DATASET OF HISTORICAL COUNTRY BOUNDARIES 
 http://nils.weidmann.ws/projects/cshapes
 
-Nils B. Weidmann (nils.weidmann@googlemail.com)
+Nils B. Weidmann (nils.weidmann@uni-konstanz.de)
 Doreen Kuse (doreen.kuse@googlemail.com)
 Kristian Skrede Gleditsch (ksg@essex.ac.uk)
 
-This version: 0.4-2 (May 05, 2013)
+This version: 0.5.1 (October 30, 2015)
 
 Dataset format
 --------------
@@ -17,7 +17,7 @@ General description
 -------------------
 
 This is a GIS dataset of country boundaries, incorporating changes in the 
-period 1946-2012. The list of states is compatible with the 
+period 1946-2015. The list of states is compatible with the 
 "Correlates of War" system membership list, version 2011.1, 
 and the Gleditsch and Ward (1999) list of independent states. 
 The dataset provides information about the core territories of 
