@@ -1,3 +1,14 @@
+2016-11-18 (0.5-2pre)
+* Updated CShapes until June 30, 2016.
+* Fixed wrong end dates for Vietnam polygons in 1975.
+* Fixed wrong end date for China before separation of Taiwan in 1949.
+* Fixed wrong end date for Pakistan before separation of Bangladesh 
+  in 1971.
+* Fixed wrong capital name and location for the Mali Federation.
+* Dropped the Mali Federation from the GW list of states.
+* Fixed the wrong start/end dates for the transition from the Mali Federation
+  to Mali proper (thanks to Karim Bahgat for reporting all these issues).
+
 2015-10-30 (0.5-1)
 * Updated CShapes until June 30, 2015
 * Removed ISO codes for Kosovo since no official code has
