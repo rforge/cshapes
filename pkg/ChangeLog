@@ -1,5 +1,8 @@
-2016-11-18 (0.5-2pre)
+2016-11-25 (0.6pre)
 * Updated CShapes until June 30, 2016.
+* The sequence of polygons for the Soviet Union now uses the correct GW start
+  and end dates. This used to be an inconsistency in all previous versions of the 
+  dataset (thanks to Karim Bahgat for helping us create the new polygons). 
 * Fixed wrong end dates for Vietnam polygons in 1975.
 * Fixed wrong end date for China before separation of Taiwan in 1949.
 * Fixed wrong end date for Pakistan before separation of Bangladesh 
