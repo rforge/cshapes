@@ -5,7 +5,7 @@ Nils B. Weidmann (nils.weidmann@uni-konstanz.de)
 Doreen Kuse (doreen.kuse@googlemail.com)
 Kristian Skrede Gleditsch (ksg@essex.ac.uk)
 
-This version: 0.6 (November 25, 2016)
+This version: 0.6 (November 30, 2016)
 
 Dataset format
 --------------

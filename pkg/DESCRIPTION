@@ -1,6 +1,6 @@
 Package: cshapes
-Version: 0.5-1
-Date: 2015-10-30
+Version: 0.6
+Date: 2016-11-30
 Title: CShapes Dataset and Utilities
 Author: Nils B. Weidmann <nils.weidmann@uni-konstanz.de>, Kristian Skrede Gleditsch <ksg@essex.ac.uk>
 Maintainer: Nils B. Weidmann <nils.weidmann@uni-konstanz.de>
